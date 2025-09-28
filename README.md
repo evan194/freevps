@@ -1,1 +1,1 @@
-# freevps
+# mining
